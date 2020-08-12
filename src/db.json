@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Economic 1111",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "99999",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 2,
+      "name": "Unbranded Cotton Sausages",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "922.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 3,
+      "name": "Ergonomic Steel ",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 4,
+      "name": "Ergonomic Steel Shirt",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 5,
+      "name": "Intelligent Concrete Bacon",
+      "image": "http://lorempixel.com/640/480/nature",
+      "price": "461.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 6,
+      "name": "Handcrafted Concrete Hat",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 7,
+      "name": "Incredible Cotton Tuna",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "57.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 8,
+      "name": "Intelligent Wooden Shirt",
+      "image": "http://lorempixel.com/640/480/abstract",
+      "price": "407.00",
+      "desc": "A product description is the marketing copy used to describe a product’s value proposition to potential customers. A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale."
+    },
+    {
+      "id": 9,
+      "name": "Phong cảnh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-60683.appspot.com/o/images%2Fcayxanh%20(1).JPG?alt=media&token=3facbefe-ef01-4d58-ae3b-fd132a851cab",
+      "price": "123",
+      "desc": "A product description"
+    },
+    {
+      "id": 10,
+      "name": "Phong cảnh 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-image-60683.appspot.com/o/images%2Fcayxanh%20(1).JPG?alt=media&token=47c639a7-54fd-43e6-80d7-9d4ba9102836",
+      "price": "123",
+      "desc": "A product description"
+    },
+    {
+      "id": 11,
+      "name": "Sản phẩm n",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "1234",
+      "desc": ""
+    },
+    {
+      "id": 12,
+      "name": "Thêm mới 1 ",
+      "image": "https://static2.yan.vn/YanNews/202005/202005220338210409-bee6f138-0608-4d56-bce3-27148a855654.png",
+      "price": "123",
+      "desc": ""
+    },
+    {
+      "id": 13,
+      "name": "SP1",
+      "image": "https://static2.yan.vn/YanNews/202005/202005220338210409-bee6f138-0608-4d56-bce3-27148a855654.png",
+      "price": "12345",
+      "desc": ""
+    },
+    {
+      "id": 14,
+      "name": "Iphone 11",
+      "image": "https://static2.yan.vn/YanNews/202005/202005220338210409-bee6f138-0608-4d56-bce3-27148a855654.png",
+      "price": "123",
+      "desc": ""
+    }
+  ],
+  "category": [
+    {
+      "id_ct": 1,
+      "name_ct": "danh mục 1",
+      "img": "http://lorempixel.com/640/480/city"
+    },
+    {
+      "id_ct": 2,
+      "name_ct": "danh mục 2",
+      "img": "http://lorempixel.com/640/480/animal"
+    },
+    {
+      "id_ct": 3,
+      "name_ct": "danh mục 3",
+      "img": "http://lorempixel.com/640/480/city"
+    },
+    {
+      "id_ct": 4,
+      "name_ct": "danh mục 4",
+      "img": "http://lorempixel.com/640/480/city"
+    }
+  ]
+}
